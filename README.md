@@ -1,5 +1,5 @@
-# SpartaX
-SpartaX is a computer vision-based fighting game inspired by Mortal Kombat and Pokemon. Players use gestures detected via a camera to control in-game actions such as healing, resting, and attacking!
+# OpenCV
+OpenCV (formerly SpartaX) is a computer vision-based fighting game inspired by Mortal Kombat and Pokemon. Players use gestures detected via a camera to control in-game actions such as healing, resting, and attacking!
 
 ## Installation & Setup
 To run SpartaX on your local machine, follow these steps:
